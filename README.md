@@ -1,2 +1,2 @@
 # fantastic-fiesta
-Java
+JavaScript
